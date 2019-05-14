@@ -1,0 +1,7 @@
+article : https://code.tutsplus.com/articles/bulk-import-a-csv-file-into-mongodb-using-mongoose-with-nodejs--cms-29574
+
+github: https://github.com/endyourif/csvimport
+
+start app: node index.js
+
+url : localhost:80
